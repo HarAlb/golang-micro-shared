@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/HarAlb/golang-micro-shared/internal/jwt"
+	"github.com/HarAlb/golang-micro-shared/jwt"
 	"github.com/gin-gonic/gin"
 )
 
